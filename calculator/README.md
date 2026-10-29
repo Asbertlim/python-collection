@@ -1,4 +1,4 @@
 # calculator
 Just a simple calculator app using python
 
-link : https://projects-wi3zdcexyyztrpesuoorsn.streamlit.app/
+link : https://python-collection-m7v8fwbhuh7adubccyshpa.streamlit.app/
