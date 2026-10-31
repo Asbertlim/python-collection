@@ -7,7 +7,7 @@ print(os.getcwd()) # returns the current working directory
 items = os.listdir() # returns a list of names of the contents of current working directory
 print(items)
 
-# os.mkdir("test.txt") # creates a directory called "reports" in the current wrking directory
+# os.mkdir("test.txt") # creates a directory called "test.txt" in the current wrking directory
 os.makedirs("data/students/reports", exist_ok=True)
 # exist_ok=True tells Python not to raise an error merely bcs the final directory already exists
 # os.makedirs creates nested directories
